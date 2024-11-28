@@ -1,0 +1,5 @@
+print("ola, mundo")
+print("meu nome é Nayara")
+print("tenho 17 anos")
+print("atualmente estou no segundo ano do ensino médio")
+print("trabalho na empresa portofino")
